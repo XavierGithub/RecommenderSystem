@@ -9,7 +9,7 @@ using namespace std;
 
 typedef int ID_TYPE;//id类型
 typedef short RATE_TYPE;//评分类型
-typedef int ATTR_TYPE;
+typedef int ATTR_TYPE;//属性类型
 
 struct Rank
 {
